@@ -1,0 +1,84 @@
+{
+	"rides": [
+		{
+			"id": "1497",
+			"driver": "Job",
+			"good": ["wood"],
+			"pickUp": "timboroa",
+			"dropOff": "turkana",
+			"deliveryPrice": "45000"
+		},
+		{
+			"id": "a7d6",
+			"driver": "Job",
+			"good": ["Baby Products", "Toys"],
+			"pickUp": "Nairobi",
+			"dropOff": "Nakuru",
+			"deliveryPrice": "25000"
+		},
+		{
+			"id": "b65b",
+			"driver": "Bob",
+			"good": ["Baby Products"],
+			"pickUp": "timboroa",
+			"dropOff": "Nakuru",
+			"deliveryPrice": "35000"
+		},
+		{
+			"id": "c23e",
+			"driver": "Ann",
+			"good": ["electronics"],
+			"pickUp": "Mombasa",
+			"dropOff": "Malindi",
+			"deliveryPrice": "50000"
+		},
+		{
+			"id": "d45f",
+			"driver": "Peter",
+			"good": ["Fruits", "Vegetables"],
+			"pickUp": "Eldoret",
+			"dropOff": "Kisumu",
+			"deliveryPrice": "15000"
+		},
+		{
+			"id": "e56g",
+			"driver": "Mary",
+			"good": ["furniture"],
+			"pickUp": "Nyeri",
+			"dropOff": "Nairobi",
+			"deliveryPrice": "40000"
+		},
+		{
+			"id": "f67h",
+			"driver": "John",
+			"good": ["Clothing"],
+			"pickUp": "Kisii",
+			"dropOff": "Kericho",
+			"deliveryPrice": "10000"
+		},
+		{
+			"id": "g78i",
+			"driver": "Lucy",
+			"good": ["building materials"],
+			"pickUp": "Naivasha",
+			"dropOff": "Nairobi",
+			"deliveryPrice": "55000"
+		},
+		{
+			"id": "h89j",
+			"driver": "Ken",
+			"good": ["Pharmaceuticals"],
+			"pickUp": "Nakuru",
+			"dropOff": "Eldoret",
+			"deliveryPrice": "30000"
+		},
+		{
+			"id": "i90k",
+			"driver": "Jane",
+			"good": ["groceries"],
+			"pickUp": "Kakamega",
+			"dropOff": "Bungoma",
+			"deliveryPrice": "5000"
+		}
+	]
+}
